@@ -1,0 +1,10 @@
+.btn {
+    display: inline-block;
+    background-color: aqua;
+    color: aliceblue;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 8px;
+    margin: 25px;
+    padding: 25px;
+}
